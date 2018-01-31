@@ -45,7 +45,7 @@ public class SolveMaze {
         }
 
         if (maze.isFinished()) {
-            System.out.println("You solved the maze!");
+            System.out.println("You Solved the Maze!");
         } else {
             System.out.println("Try again!");
         }
